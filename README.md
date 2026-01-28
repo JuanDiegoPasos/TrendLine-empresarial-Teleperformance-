@@ -58,6 +58,9 @@ Agregar Publicación-modal
 Usuarios-Page
 [![Usuarios.png](https://i.postimg.cc/BnfWfK4j/Usuarios.png)](https://postimg.cc/JGxYbty8)
 
+Reportes-Page
+[![Reportes.png](https://i.postimg.cc/QdZLZThC/Reportes.png)](https://postimg.cc/KRfpn4Kh)
+
 
 ---
 
