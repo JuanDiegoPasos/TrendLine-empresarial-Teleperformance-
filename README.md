@@ -2,6 +2,8 @@
 
 TrendLine es una plataforma web Full-Stack diseñada como una red social corporativa para la comunicación interna. Permite a líderes y formadores compartir contenido multimedia (noticias, videos, podcasts) y evaluar el desempeño del equipo mediante cuestionarios interactivos, todo bajo una interfaz moderna inspirada en redes sociales comerciales.
 
+[![Para-Ti.png](https://i.postimg.cc/Fz1v15BX/Para-Ti.png)](https://postimg.cc/H8GRPKm6)
+
 ## 👤 Mi Rol y Contribuciones
 Como **Desarrollador Principal de Backend**, lideré la creación de la infraestructura desde cero:
 * **Liderazgo Técnico:** Único responsable del diseño y desarrollo de la API RESTful.
@@ -10,7 +12,7 @@ Como **Desarrollador Principal de Backend**, lideré la creación de la infraest
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 | Área | Tecnologías |
 | :--- | :--- |
@@ -22,7 +24,7 @@ Como **Desarrollador Principal de Backend**, lideré la creación de la infraest
 
 ---
 
-## 🏗️ Arquitectura y Diseño
+## Arquitectura y Diseño
 El proyecto se basa en una arquitectura de **separación clara de responsabilidades** para maximizar la escalabilidad:
 
 * **Patrones:** Implementación de MVC, Repository Pattern y Service Layer para desacoplar la lógica de negocio del acceso a datos.
@@ -33,13 +35,29 @@ El proyecto se basa en una arquitectura de **separación clara de responsabilida
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 * **Gestión Multimedia:** Subida y optimización de imágenes y videos con almacenamiento en Azure.
 * **Interacción Social:** Sistema de comentarios, reacciones (likes/dislikes) y seguimiento de vistas.
 * **Centro de Evaluaciones:** Creación de cuestionarios con diversos tipos de preguntas y generación de reportes de resultados.
 * **Control de Acceso:** Gestión de usuarios por roles y asignación a módulos específicos del negocio.
 * **Dashboard Administrativo:** Panel completo para la gestión de categorías, archivos y usuarios.
+
+---
+
+## Capturas
+Para Ti-page
+[![Para-Ti.png](https://i.postimg.cc/Fz1v15BX/Para-Ti.png)](https://postimg.cc/H8GRPKm6)
+
+Reels-page
+[![Publicaciones-Reels.png](https://i.postimg.cc/CxpypqSf/Publicaciones-Reels.png)](https://postimg.cc/YhRD1j4p)
+
+Agregar Publicación-modal
+[![Agregar-Publicacion.png](https://i.postimg.cc/K8hXhMxY/Agregar-Publicacion.png)](https://postimg.cc/crhkQ6Kq)
+
+Usuarios-Page
+[![Usuarios.png](https://i.postimg.cc/BnfWfK4j/Usuarios.png)](https://postimg.cc/JGxYbty8)
+
 
 ---
 
